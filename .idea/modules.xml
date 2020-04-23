@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tes-tSpringboot-1/Tes-tSpringboot-1.iml" filepath="$PROJECT_DIR$/Tes-tSpringboot-1/Tes-tSpringboot-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Test-Spring-boot.iml" filepath="$PROJECT_DIR$/.idea/Test-Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
     </modules>
   </component>
 </project>
